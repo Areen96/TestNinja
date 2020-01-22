@@ -1,0 +1,5 @@
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
