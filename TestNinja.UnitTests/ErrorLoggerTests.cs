@@ -1,6 +1,5 @@
-﻿using NUnit.Framework;
-using TestNinja.Fundamentals;
-
+﻿using TestNinja.Fundamentals;
+using NUnit.Framework;
 namespace TestNinja.UnitTests
 {
     [TestFixture]
