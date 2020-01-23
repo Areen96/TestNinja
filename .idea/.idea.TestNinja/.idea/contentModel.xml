@@ -20,10 +20,13 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Fundamentals" t="Include">
           <e p="CustomerController.cs" t="Include" />
+          <e p="DemeritPointsCalculator.cs" t="Include" />
           <e p="ErrorLogger.cs" t="Include" />
+          <e p="FizzBuzz.cs" t="Include" />
           <e p="HtmlFormatter.cs" t="Include" />
           <e p="Math.cs" t="Include" />
           <e p="Reservation.cs" t="Include" />
+          <e p="Stack.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Properties" t="Include">
@@ -36,6 +39,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="CustomerControllerTests.cs" t="Include" />
         <e p="ErrorLoggerTests.cs" t="Include" />
+        <e p="FizzBuzzTests.cs" t="Include" />
         <e p="HtmlFormatterTests.cs" t="Include" />
         <e p="MathTests.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
