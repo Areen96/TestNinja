@@ -38,6 +38,7 @@
       <e p="TestNinja.UnitTests" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="CustomerControllerTests.cs" t="Include" />
+        <e p="DemeritPointsCalculatorTests.cs" t="Include" />
         <e p="ErrorLoggerTests.cs" t="Include" />
         <e p="FizzBuzzTests.cs" t="Include" />
         <e p="HtmlFormatterTests.cs" t="Include" />
