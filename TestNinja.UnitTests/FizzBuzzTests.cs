@@ -26,5 +26,7 @@ namespace TestNinja.UnitTests
             var result = FizzBuzz.GetOutput(25);
             Assert.That(result, Is.EqualTo("Buzz"));
         }
+        
+        
     }
 }
