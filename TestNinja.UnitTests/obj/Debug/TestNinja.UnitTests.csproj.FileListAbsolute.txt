@@ -22,3 +22,8 @@ E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja
 E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
 E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
 E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.dll
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.dll
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
