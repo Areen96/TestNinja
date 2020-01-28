@@ -27,3 +27,8 @@ E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja
 E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
 E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
 E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.pdb
+E:\Courses\[FreeCourseSite.com] Udemy - Unit Testing for C# Developers\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.xml
