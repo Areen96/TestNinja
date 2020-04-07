@@ -4,6 +4,7 @@
     {
         public static string GetOutput(int number)
         {
+            //Areen
             if ((number % 3 == 0) && (number % 5 == 0))
                 return "FizzBuzz";
 
